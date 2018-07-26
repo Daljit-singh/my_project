@@ -1,0 +1,346 @@
+@media (max-width: 1024px){
+	.who-main .col-md-offset-1
+	{
+		width: 50%;
+	}
+	.who-right
+	{
+		padding: 0;
+	}
+	.who-right ul li
+	{
+		padding: 5px 30px;
+	}
+	.who-right ul
+	{
+		margin: 0;
+	}
+	.who-right h1
+	{
+		margin-top:0;
+	}
+	.banner-content
+	{
+		height: 800px;
+	}
+	.hexagon:before,.hexagon:after
+	{
+		left:39%;
+	}
+	.banner-left h1
+	{
+		font-size: 30px;
+	}
+	.banner-left p
+	{
+		font-size: 17px;
+	}
+	.banner-inner
+	{
+		padding:0 20px;
+	}
+}
+@media (max-width:991px){
+	.banner-inner
+	{
+		padding:0;
+	}
+	.banner-left
+	{
+		padding:40px 16px;
+	}
+	.banner-right
+	{
+		padding:20px;
+	}
+	.banner-left img
+	{
+		max-width: 240px;
+	}
+	.banner-left h1
+	{
+		font-size:30px;
+	}
+	.banner-left p
+	{
+		font-size: 16px;
+	}
+	.who-main .col-md-offset-1
+	{
+		margin-left: 0;
+	}
+	.hexagon:before, .hexagon:after
+	{
+		left:35%;
+	}
+	.footer-div > p
+	{
+		font-size: 12px;
+	}
+}
+@media (max-width: 800px){
+	.who-main
+	{
+		padding:70px 0;
+	}
+	.who-right ul li
+	{
+		padding:5px 0;
+	}
+	.who-desc
+	{
+		padding:10px;
+	}
+	.cta-cntnt
+	{
+		max-width: 640px;
+	}
+	.cta-desc h2
+	{
+		font-size: 30px;
+	}
+	.banner-inner
+	{
+		padding: 40px 0;
+	}
+}
+@media (max-width: 768px){
+	.banner-left,.banner-right
+	{
+		width: 100%;
+		padding:20px;
+	}
+	.banner-left img
+	{
+		max-width: 430px;
+	}
+	.banner-left h1
+	{
+		font-size: 44px;
+	}
+	.banner-left p
+	{
+		font-size: 30px;
+	}
+	.who-main
+	{
+		padding: 70px 40px;
+	}
+	.who-main > div > div.row
+	{
+		display: flex;
+		margin: 0 -15px;
+		flex-direction: column;
+	}
+	.who-main .col-md-offset-1
+	{
+		width: 100%;
+	}
+	.order2
+	{
+		order: 2;
+		width: 100%;
+	}
+	.order1
+	{
+		order: 1;
+		width: 100%;
+	}
+	.who-left img
+	{
+		display: none;
+	}
+	.who-left img.desktop-768
+	{
+		display: block;
+	}
+	.who-left
+	{
+		margin-top:50px;
+	}
+	.who-right ul
+	{
+		margin-bottom: 60px;
+	}
+	.who-right ul li
+	{
+		padding:20px 0;
+	}
+	.cus-btn
+	{
+		width: 100%;
+		font-size: 20px;
+	}
+	.how-main > div > .row > div
+	{
+		width: 100%;
+	}
+	.how-cntnt
+	{
+		text-align: center;
+		margin-bottom: 30px;
+		padding:30px 10px ;
+	}
+	.top-heading
+	{
+		padding-bottom: 40px;
+	}
+	.how-cntnt > div.how-img
+	{
+		width: 60%;
+		float: none;
+		display: inline-block;
+	}
+	.hexagon:before, .hexagon:after
+	{
+		left: 43%;
+	}
+	.how-main
+	{
+		padding:70px 0px;
+	}
+	.how-main > div > .row > div:last-child .how-cntnt
+	{
+		margin-bottom: 0;
+	}
+	.cta-input .input-group
+	{
+		margin-bottom: 20px;
+		width: 100%;
+	}
+	.cta-desc h2
+	{
+		font-size: 44px;
+	}
+	.cta-cntnt form,.cta-cntnt
+	{
+		max-width: 100%;
+	}
+	.footer-div .social-top
+	{
+		padding: 0;
+	} 
+	.banner-right form .form-group:first-child,.banner-right form .form-group:nth-child(2)
+	{
+		width: 50%;
+	}
+}
+@media (max-width: 736px)
+{
+	.how-cntnt > div.how-img
+	{
+		width: 65%;
+	}
+}
+@media (max-width: 640px){
+	.how-cntnt > div.how-img
+	{
+		width:70%;
+	}
+	.footer-div img
+	{
+		max-width: 130px;
+	}
+	.footer-div ul li a
+	{
+		font-size: 12px;
+	}
+	.footer-div > p
+	{
+		font-size: 10px;
+	}
+}
+@media (max-width: 480px){
+	.banner-left p
+	{
+		line-height: 36px;
+	}
+	.banner-right form .form-group:first-child, .banner-right form .form-group:nth-child(2)
+	{
+		width: 100%;
+	}
+	.who-right p
+	{
+		font-size: 14px;
+	}
+	.who-desc
+	{
+		padding:0 10px;
+	}
+	.hexagon:before, .hexagon:after
+	{
+		left:40%;
+	}
+	.cta-cntnt form, .cta-cntnt
+	{
+		padding: 0 20px;
+	}
+	.footer-mini
+	{
+		flex-direction: column;
+	}
+	.footer-div
+	{
+		padding:7px 0;
+	}
+	.footer-div > p,.footer-div ul li a
+	{
+		font-size: 14px;
+	}
+	.footer-div img
+	{
+		max-width: 190px;
+	}
+}
+@media (max-width: 414px){
+	.hexagon:before, .hexagon:after
+	{
+		left: 38%;
+	}
+}
+@media (max-width: 375px){
+	.hexagon:before, .hexagon:after
+	{
+		left: 39%;
+	}
+	.how-cntnt > div.how-img
+	{
+		width: 82%;
+	}
+}
+@media (max-width: 360px){
+	.banner-left h1,.cta-desc h2
+	{
+		font-size: 36px;
+	}
+	.banner-inner,.cta-cntnt form, .cta-cntnt
+	{
+		padding: 0;
+	}
+	.banner-left p
+	{
+		font-size: 18px;
+	}
+	.who-main,.how-main
+	{
+		padding: 40px 15px;
+	}
+	.how-cntnt > div.how-img
+	{
+		width: 100%;
+	}
+	.hexagon:before, .hexagon:after
+	{
+		left: 39%;
+	}
+	.top-heading h1,.who-right h1
+	{
+		font-size: 32px;
+	}
+}
+@media (max-width: 320px){
+	.hexagon:before, .hexagon:after
+	{
+		left: 37%;
+	}
+}
